@@ -1,11 +1,28 @@
 ### Développeuse web 
 
-[<img src='https://icon-icons.com/icons2/99/PNG/32/linkedin_socialnetwork_17441.png' alt='linkedin'>](https://www.linkedin.com/in/lou-gromenil/) **Linkedin**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lou-gromenil/)
+<a href="mailto:lou.gromenil@gmail.com"><img src="https://img.shields.io/badge/Mail-ea4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 #### Environnement :
 
-<img src='https://icon-icons.com/icons2/70/PNG/48/ubuntu_14143.png' alt='ubuntu' height='40'> <img src='https://icon-icons.com/icons2/730/PNG/48/windows_icon-icons.com_62797.png' alt='windows' height='40'>
+![Linux](https://img.shields.io/badge/Linux-FFC557.svg?style=flat-square&logo=Linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-00a4ef.svg?style=flat-square&logo=Windows&logoColor=white)
+
 
 #### Compétences :
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=PHP&logoColor=232531)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=323330)
+![jQuery](https://img.shields.io/badge/-jQuery-131b28?style=flat-square&logo=jQuery&logoColor=0868ac)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=Bootstrap&logoColor=white)
 
-<img src='https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png' alt='html' height='40'><img src='https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png' alt='css' height='40'> <img src='https://icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png' alt='js' height='40'> <img src='https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png' alt='bootstrap' height='40'> <img src='https://icon-icons.com/icons2/2108/PNG/48/php_icon_130857.png' alt='php' height='40'> <img src='https://icon-icons.com/icons2/512/PNG/48/prog-symfony_icon-icons.com_50769.png' alt='symfony' height='40'> <img src='https://icon-icons.com/icons2/832/PNG/48/wordpress_icon-icons.com_66678.png' alt='wp' height='40'> <img src='https://icon-icons.com/icons2/2415/PNG/48/mysql_original_wordmark_logo_icon_146417.png' alt='mysql' height='40'>
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=Symfony&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress&logoColor=white)
+![Prestashop](https://img.shields.io/badge/Prestashop-DF0067?style=flat-square&logo=Prestashop&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/-Git-3d2d00?style=flat-square&logo=git&logoColor=f34f29)
+![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat-square&logo=github&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=ff9900)
