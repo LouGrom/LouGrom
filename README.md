@@ -7,6 +7,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FFC557.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-00a4ef.svg?style=flat-square&logo=Windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-000000.svg?style=flat-square&logo=Apple&logoColor=white)
 
 
 #### Compétences :
