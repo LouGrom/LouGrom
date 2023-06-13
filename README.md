@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=Bootstrap&logoColor=white)
 
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=Symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&logoColor=ED4131)
+![Laravel](https://img.shields.io/badge/-Laravel-ed4131?style=flat-square&logo=Laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/Prestashop-DF0067?style=flat-square&logo=Prestashop&logoColor=white)
 
