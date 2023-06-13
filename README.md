@@ -27,6 +27,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-3d2d00?style=flat-square&logo=git&logoColor=f34f29)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat-square&logo=github&logoColor=white)
-![Infomaniak](https://img.shields.io/badge/-Infomaniak-white?style=flat-square&logo=infomaniak&logoColor=0098FF)
+![Infomaniak](https://img.shields.io/badge/-Infomaniak-0098FF?style=flat-square&logo=infomaniak&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=ff9900)
 
